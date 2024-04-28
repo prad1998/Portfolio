@@ -7,15 +7,13 @@
 //    {name: 'Blog', '#blog'}
 ]
  
-
-
 </script>
 
 <header class={'sticky z-[100] top-0 duration-200 px-6 flex items-center justify-between border-solid' + (
     y>0 ? 'py-4 bg-slate-950 border' : 'py-6 bg-transparent border-transparent'
 )}>
 <h1 class="font-medium">
-    <b class="font-bold poppins">Pradeep</b> Thayaparans
+    <b class="font-bold poppins">Pradeep</b> Thayaparan
 </h1>
 <div class="sm:flex items-center gap-4 hidden">
 

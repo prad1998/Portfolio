@@ -4,7 +4,9 @@
  let tabs = [   
     {name: 'Projects', link:"#projects"},
     {name: 'About me', link:"#about"},
-//    {name: 'Blog', '#blog'}
+    {name: 'Login', link:"#login"},
+
+    //    {name: 'Blog', '#blog'}
 ]
  
 

@@ -1,6 +1,7 @@
 <script>
 
 
+
 </script>
 
 <main class="flex flex-col flex-1 p-4">
@@ -59,6 +60,29 @@
        About Me...
 
        <div class="mx-auto w-16 h-2 bg-purple-500 my-8"></div>
+
+
+     </h6>
+     <h3>
+       cur
+     </h3>
+    </div>
+    <div class="mx-auto w-16 h-2 bg-purple-500 my-8"></div>
+
+      
+
+
+  </section>
+
+  <section id=login class="py-20 lg:py-32 flex flex-col gap-24">
+    <div class="flex flex-col gap-2 text-center">
+     <h6 class="text-large sm:text-xl md:text-2xl"> 
+      <div class="border-t border-dotted border-purple-500 w-full my-8"></div>
+
+       Login
+
+       <div class="mx-auto w-16 h-2 bg-purple-500 my-8"></div>
+
 
 
      </h6>
