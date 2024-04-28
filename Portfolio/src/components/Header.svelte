@@ -15,7 +15,7 @@
     y>0 ? 'py-4 bg-slate-950 border' : 'py-6 bg-transparent border-transparent'
 )}>
 <h1 class="font-medium">
-    <b class="font-bold poppins">Pradeep</b> Thayaparan
+    <b class="font-bold poppins">Pradeep</b> Thayaparans
 </h1>
 <div class="sm:flex items-center gap-4 hidden">
 
