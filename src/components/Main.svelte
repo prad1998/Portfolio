@@ -83,7 +83,16 @@
 
        <div class="mx-auto w-16 h-2 bg-purple-500 my-8"></div>
 
+      <form method="post">
+        <div>
+          <input type="user" name="user">
+        </div>
+        <div>
+          <input type="password" name="password">
+        </div>
 
+        <button> Login </button>
+      </form>
 
      </h6>
      <h3>
